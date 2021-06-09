@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/thienphan/static/css/main.41a8fa8a.chunk.css",
+    "main.js": "/thienphan/static/js/main.760844ac.chunk.js",
+    "main.js.map": "/thienphan/static/js/main.760844ac.chunk.js.map",
+    "runtime-main.js": "/thienphan/static/js/runtime-main.50839464.js",
+    "runtime-main.js.map": "/thienphan/static/js/runtime-main.50839464.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/thienphan/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.5a288707.chunk.js": "/thienphan/static/js/2.5a288707.chunk.js",
+    "static/js/2.5a288707.chunk.js.map": "/thienphan/static/js/2.5a288707.chunk.js.map",
+    "static/js/3.1ffb7e62.chunk.js": "/thienphan/static/js/3.1ffb7e62.chunk.js",
+    "static/js/3.1ffb7e62.chunk.js.map": "/thienphan/static/js/3.1ffb7e62.chunk.js.map",
+    "index.html": "/thienphan/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/thienphan/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.41a8fa8a.chunk.css.map": "/thienphan/static/css/main.41a8fa8a.chunk.css.map",
+    "static/js/2.5a288707.chunk.js.LICENSE.txt": "/thienphan/static/js/2.5a288707.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/thienphan/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50839464.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.5a288707.chunk.js",
+    "static/css/main.41a8fa8a.chunk.css",
+    "static/js/main.760844ac.chunk.js"
+  ]
+}
